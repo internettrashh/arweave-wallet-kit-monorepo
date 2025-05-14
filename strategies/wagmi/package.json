@@ -26,6 +26,7 @@
     "fmt": "prettier . --write"
   },
   "dependencies": {
+    "@ethersproject/bytes": "^5.8.0",
     "@metamask/eth-sig-util": "^8.2.0",
     "@wagmi/core": "^2.16.4",
     "ethers": "^6.13.5",
@@ -35,6 +36,7 @@
   "devDependencies": {
     "@arweave-wallet-kit/browser-wallet-strategy": "workspace:*",
     "@arweave-wallet-kit/core": "workspace:*",
+    "@dha-team/arbundles": "^1.0.3",
     "@types/node": "^20.4.2",
     "arconnect": "^1.0.4",
     "arweave": "^1.12.2",
