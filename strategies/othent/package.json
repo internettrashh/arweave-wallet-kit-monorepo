@@ -45,6 +45,7 @@
     "@arweave-wallet-kit/core": "workspace:*"
   },
   "dependencies": {
+    "@dha-team/arbundles": "^1.0.3",
     "@othent/kms": "2.1.1",
     "jwt-decode": "^4.0.0"
   }

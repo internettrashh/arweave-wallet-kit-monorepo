@@ -27,6 +27,8 @@
   },
   "devDependencies": {
     "@arweave-wallet-kit/core": "workspace:*",
+        "@dha-team/arbundles": "^1.0.3",
+
     "@rollup/plugin-babel": "^6.0.4",
     "@types/node": "^20.4.2",
     "arconnect": "^1.0.4",
